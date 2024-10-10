@@ -1,4 +1,4 @@
-# Library Scheduler 
+# Library Reading Scheduler Project
 
 # Project Inspiration
 
